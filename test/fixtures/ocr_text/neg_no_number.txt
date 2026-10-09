@@ -1,0 +1,4 @@
+# expected: none
+Pengajuan Berhasil
+Silakan tunggu konfirmasi dari BCA melalui SMS.
+Halo BCA 1500888

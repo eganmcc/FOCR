@@ -1,0 +1,5 @@
+# expected: A030510202600701
+14:32 4G 87%
+Pengajuan Berhasil
+No. registrasi aplikasi Kartu Kredit BCA Anda adalah A03 0510 2026 00701
+Silakan simpan nomor registrasi ini.

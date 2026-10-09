@@ -1,0 +1,3 @@
+# expected: A03C509864
+No. registrasi aplikasi Kartu Kredit BCA Anda adalah
+4O3CS09864

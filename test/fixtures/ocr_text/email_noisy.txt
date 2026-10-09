@@ -1,0 +1,5 @@
+# expected: A032209202601890
+Pengajuan Anda Telah Terkirim ke BCA
+Terima kasih telah mengajukan Kartu Kredit BCA pada 22/09/2026
+Nomor Registrasi : A0322O92026O1B9O
+Halo BCA 1500888 | www.bca.co.id

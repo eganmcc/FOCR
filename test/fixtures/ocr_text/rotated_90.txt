@@ -1,0 +1,3 @@
+# expected: A030210202606071
+No. registrasi aplikasi Kartu Kredit
+BCA Anda adalah A030210202606071

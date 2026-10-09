@@ -1,0 +1,3 @@
+# expected: A03C526979
+No. reg strasi aplikasi Kartu Kredit BCA
+Anda adalah A03C5Z6979

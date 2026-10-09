@@ -1,0 +1,8 @@
+# expected: A03C507538
+Aplikasi Pengajuan Kartu Kredit BCA
+Data Anda telah terkirim ke BCA
+No. registrasi aplikasi Kartu Kredit
+BCA Anda adalah A03C507538
+Selesai
+Info lebih lanjut, hubungi Halo BCA 1500888.
+webform.bca.co.id

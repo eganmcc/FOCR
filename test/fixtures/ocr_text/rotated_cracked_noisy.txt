@@ -1,0 +1,4 @@
+# expected: A030310202600958
+No. registrasi aplikasi Kartu Kredit BCA Anda adalan
+AO3O31O2O26OO958 .
+Silakan simpan
